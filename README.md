@@ -1,6 +1,6 @@
 **`Web Developer Developer`**
 
-A Developer always looking to try out new technologies, willing to work for free, just to gain some experience that i can use for the next oppurtunity given.
+A Developer who is always looking to try out new technologies, willing to work for free, just to gain some experience that i can use for the next oppurtunity given.
 
 - 🌍 I'm based in Luzon, Philippines 🇵🇭
 - ✉️ You can contact me at mark.jesusmanabat@gmail.com
@@ -55,6 +55,8 @@ A Developer always looking to try out new technologies, willing to work for free
 <img align="left" alt="Graphql" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
           
 <br/>
+
+---
 
 | Statistic                                                                                                                                       |                                                                                                                                                            Languages |
 | :---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
