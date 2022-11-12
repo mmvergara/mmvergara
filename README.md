@@ -19,6 +19,8 @@ A Developer who is always looking to try out new technologies, willing to work f
 <img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="MaterialUI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />     
 <img align="left" alt="Tailwind Css" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />   
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="./svg/djs.svg" />
+
 <br/>
 
 ---
@@ -57,7 +59,6 @@ A Developer who is always looking to try out new technologies, willing to work f
 <img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Webpack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="./svg/framer-motion.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="./svg/djs.svg" />
 
 <br/>
 
