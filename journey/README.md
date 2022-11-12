@@ -116,6 +116,7 @@ Created LeetCode account
 
 - Chakra ui
 - Done deep Learning Git and Github
+  - Joined a github organization to apply those things that i practiced
 - Basics, Branching,
 - Deployed Ashera App - React firebase with Chakra UI
   - app to manage Tasks and Notes.
