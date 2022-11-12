@@ -7,7 +7,7 @@ A Developer who is always looking to try out new technologies, willing to work f
 - 🔭 I’m currently working on random web apps project and a discord bot
 - 💬 Ask me about Javascript, Typescript and React
 - ⚡ Fun fact, I hate vanilla js, put some typescript magic in there.
-
+- 🏃‍♂️ See my Developer Journey
 ### Skills and Tools 🧰
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
