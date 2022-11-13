@@ -18,10 +18,12 @@ A Developer who is always looking to try out new technologies, willing to work f
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="MaterialUI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />     
+<img align="left" alt="ChakraUI" width="30px" style="padding-right:10px;" src="./svg/chakraui.svg" />     
 <img align="left" alt="Tailwind Css" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />   
 <img align="left" alt="Docusaurus" width="30px" style="padding-right:10px;" src="./svg/docusaurus.svg" />
 <img align="left" alt="Discord JS" width="30px" style="padding-right:10px;" src="./svg/djs.svg" />
 
+<br/>
 <br/>
 
 ---
