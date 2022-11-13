@@ -67,7 +67,7 @@ Created LeetCode account
 ### August 2022
 
 - Created A lot of blogs for Javascript trying to reinforce my javascript skills.
-- Created https://javascript-in-tagalog.netlify.app/ and started uploading my blogs there.
+- Created https://javascript-in-tagalog.vercel.app/ and started uploading my blogs there.
 - Learning Typescripts fundamentals
   - Generics,
   - Decorators
@@ -110,7 +110,7 @@ Created LeetCode account
 - October 30 2022
   - Deployed first node medium size project
   - React-Boarz - MERN STACK with Material UI
-  - https://mmv-boardz.netlify.app/
+  - https://mmv-boardz.vercel.app/
 
 ### November, 2022
 
@@ -120,17 +120,21 @@ Created LeetCode account
 - Basics, Branching,
 - Deployed Ashera App - React firebase with Chakra UI
   - app to manage Tasks and Notes.
-  - https://mmv-ashera.netlify.app/
+  - https://mmv-ashera.vercel.app/
 - Started Learning Docusaurus
 
   - Done learning docusaurs
   - Created 2 Docusaurus Websites
-    - https://mmv-docs.netlify.app/
+
+    - https://mmv-docs.vercel.app/
 
       - Documentations for web apps i made.
 
-    - https://javascript-methods-in-tagalog.netlify.app/
+    - https://javascript-methods-in-tagalog.vercel.app/
       - javascript in tagalog i realized was ambitious now im just gonna aim to document all javascript methods and explain what those methods do in tagalog.
 
 - Started Learning Vuejs
+
   - Core concepts done
+
+- Migrating all netlify apps to vercel
