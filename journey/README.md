@@ -138,3 +138,9 @@ Created LeetCode account
   - Core concepts done
 
 - Migrating all netlify apps to vercel
+
+- Deployed MMV Acrie Shop
+  - November 21, 2022
+  - https://github.com/mmvergara/mmv-acrie-shop
+
+-
