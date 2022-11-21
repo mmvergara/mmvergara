@@ -8,6 +8,7 @@ A Developer who is always looking to try out new technologies, willing to work f
 - 💬 Ask me about Javascript, Typescript and React
 - ⚡ Fun fact, I hate vanilla js, put some typescript magic in there.
 - 🏃‍♂️ See my [Developer Journey](https://github.com/mmvergara/mmvergara/tree/main/journey)
+
 ### Skills and Tools 🧰
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -19,7 +20,8 @@ A Developer who is always looking to try out new technologies, willing to work f
 <img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="MaterialUI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />     
 <img align="left" alt="ChakraUI" width="30px" style="padding-right:10px;" src="./svg/chakraui.svg" />     
-<img align="left" alt="Tailwind Css" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />   
+<img align="left" alt="Tailwind Css" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="Framer Motion" width="30px" style="padding-right:10px;" src="./svg/framer-motion.svg" />
 <img align="left" alt="Docusaurus" width="30px" style="padding-right:10px;" src="./svg/docusaurus.svg" />
 <img align="left" alt="Discord JS" width="30px" style="padding-right:10px;" src="./svg/djs.svg" />
 
@@ -31,24 +33,24 @@ A Developer who is always looking to try out new technologies, willing to work f
 ### Backend Development
 
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
-
+<br/>
 <br/>
 
 ---
 
 ### Developer Tools
 
-
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="./img/github-w.png" />
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="./svg/postman.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="VscodeVim-Extension" width="30px" style="padding-right:10px;" src="./img/vscodevim.png" />
+
+<br/>
 <br/>
 
 ---
@@ -59,12 +61,13 @@ A Developer who is always looking to try out new technologies, willing to work f
 <img align="left" alt="Graphql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
 <img align="left" alt="Jest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img align="left" alt="Mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Webpack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="./svg/framer-motion.svg" />
-
+<img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" />
+          
 <br/>
-
+<br/>
 
 ---
 
