@@ -126,10 +126,12 @@ Created LeetCode account
   - Done learning docusaurs
   - Created 2 Docusaurus Websites
 
+    - **Deployment Date** November 9, 2022
     - https://mmv-docs.vercel.app/
 
       - Documentations for web apps i made.
 
+    - **Deployment Date** November 12, 2022
     - https://javascript-methods-in-tagalog.vercel.app/
       - javascript in tagalog i realized was ambitious now im just gonna aim to document all javascript methods and explain what those methods do in tagalog.
 
@@ -140,7 +142,9 @@ Created LeetCode account
 - Migrating all netlify apps to vercel
 
 - Deployed MMV Acrie Shop
-  - November 21, 2022
+
+  - **Deployment Date** November 21, 2022
   - https://github.com/mmvergara/mmv-acrie-shop
 
--
+- Started working on Personal Developer WEbsite
+  - https://markvergara.vercel.app/

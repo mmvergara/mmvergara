@@ -1,6 +1,6 @@
-**`Web Developer Developer`**
+**`Web Developer`**
 
-A Developer who is always looking to try out new technologies, willing to work for free, just to gain some experience that i can use for the next oppurtunity given.
+A Web Developer who is always looking to try out new technologies, willing to work in minimum wage, just to gain some experience that i can use for the next oppurtunity given.
 
 - 🌍 I'm based in Luzon, Philippines 🇵🇭
 - ✉️ You can contact me at mark.jesusmanabat@gmail.com
