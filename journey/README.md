@@ -147,4 +147,12 @@ Created LeetCode account
   - https://github.com/mmvergara/mmv-acrie-shop
 
 - Started working on Personal Developer WEbsite
+
   - https://markvergara.vercel.app/
+
+- Create a discord bot for managing schooltask Dec 9, 2022
+
+  - https://github.com/mmvergara/mmv-schooltaskbot
+
+- Created a webhook based discord bot template Dec 9, 2022
+  - https://github.com/mmvergara/webhook-based-discordbot-template
