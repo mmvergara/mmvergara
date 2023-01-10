@@ -1,3 +1,5 @@
+> Sometimes there are just lot of things that happens or i learm in month and it gets hard to document it.
+
 ### January 2022 - March 2022
 
 Learned Basic HTML CSS JAVASCRIPT
@@ -156,3 +158,14 @@ Created LeetCode account
 
 - Created a webhook based discord bot template Dec 9, 2022
   - https://github.com/mmvergara/webhook-based-discordbot-template
+
+
+### December, 2022
+- Took a small break. its Christmas after all 🎄
+- Started working on a onboarding project i called Dex
+  - Deployment date: Jan 6, 2023
+  - https://github.com/mmvergara/mmv-dex
+  - https://mmv-dex.vercel.app/ 
+- Learned Supabase
+
+### January, 2023
