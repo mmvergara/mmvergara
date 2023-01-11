@@ -9,15 +9,15 @@
           "foreground": "#EDE6DB",
           "powerline_symbol": "\ue0b0",
           "style": "powerline",
-          "template": " \u2615 ",
-          "type": "root"
+          "template": " ☕ ",
+          "type": "session"
         },
         {
           "background": "#090909",
           "foreground": "#EDE6DB",
           "powerline_symbol": "\ue0b0",
           "style": "accordion",
-          "template": " mmvergara ",
+          "template": " crown ",
           "type": "session"
         },
         {

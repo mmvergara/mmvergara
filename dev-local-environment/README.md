@@ -4,22 +4,27 @@
 
 - INSTALL WSL on MICROSOFT STORE
 - Install font CaskaydiaCover Nerd Font Mono
-- pwsh `wsl --set-default-version 2`
-- Install ubuntu on microsoft store
+- wsl --list --online
+- pick ubuntu 20.04-
+- Create new user
+- `sudo apt-get update`
+- `sudo apt-get upgrade`
 
-## Updating and Setting up zsh terminal
+
+## Setting up zsh terminal
 
 > To upgrade to the latest version
 
 - `sudo apt-get update`
 - `sudo apt-get upgrade`
 
-> Install unzip and zsh
+> Install Brew
+- https://brew.sh/
 
+> Install unzip and zsh
 - `sudo apt-get install zsh -y`
 
 > Set zsh as default shell
-
 - `chsh -s /usr/bin/zsh`
 
 ### Download oh my zsh
