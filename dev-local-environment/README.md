@@ -32,11 +32,6 @@ git config --global user.username "mmvergara"
 
 ### Install Github CLI
 https://github.com/cli/cli/blob/trunk/docs/install_linux.md
-
-### Generate SSH key then login
-`ssh-keygen -t rsa -b 4096 -C your**gmail`
-<br/> #=== or ===# <br/>
-`ssh-keygen -t ed25519 -C your**gmail`<br/>
 `gh auth login`
 
 ---
