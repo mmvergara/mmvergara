@@ -74,6 +74,6 @@
  -->
 ---
 
-| ![](https://github-stats-alpha.vercel.app/api?username=mmvergara&cc=0d1117&tc=7d8590&ic=2f81f7&bc=30363d) 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmvergara&theme=github_dark) |
-
+| Statistic                                                                                                                                       |                                                                                                                                                            Languages |
+| :---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![](https://github-stats-alpha.vercel.app/api?username=mmvergara&cc=0d1117&tc=7d8590&ic=2f81f7&bc=30363d)<br/> | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmvergara&theme=github_dark) |
