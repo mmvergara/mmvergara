@@ -3,12 +3,8 @@
   </a>
   <br/>
   <a href="https://github.com/mmvergara">
-      <img src="https://github-stats-alpha.vercel.app/api?username=mmvergara&cc=161b22&tc=51c3bc&ic=fff&bc=0000">
+      <img src="https://github-stats-alpha.vercel.app/api?username=mmvergara&cc=161b22&tc=51c3bc&ic=fff&bc=0000" width='100%'>
   </a>
-
-**`Web Developer`**
-
-A Web Developer who is always looking to try out new technologies, willing to work, just to gain some experience that i can use for the next oppurtunity given.
 
 - 🌍 I'm based in Luzon, Philippines 🇵🇭
 - 💻 See My [Personal Website](https://markvergara.vercel.app/)
