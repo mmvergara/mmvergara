@@ -3,11 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mark+Matthew+Vergara+;Web+%26+Mobile+Development;Currently+a+2nd+Year+Student" alt="Typing SVG" />
   </a>
   <br/>
-  <a href="https://github.com/drkostas">A
-      <img src="https://github-stats-alpha.vercel.app/api?username=mmvergara&cc=000&tc=fff&ic=fff&bc=000">
+  <a href="https://github.com/drkostas">
+      <img src="https://github-stats-alpha.vercel.app/api?username=drkostas&cc=22272e&tc=51c3bc&ic=fff&bc=0000">
   </a>
 </p>
-
 
 **`Web Developer`**
 
@@ -20,7 +19,8 @@ A Web Developer who is always looking to try out new technologies, willing to wo
 - 💬 Ask me about Javascript, Typescript and React
 - ⚡ Fun fact, I hate vanilla js, put some typescript magic in there.
 - 🏃‍♂️ See my [Developer Journey](https://github.com/mmvergara/mmvergara/tree/main/journey)
-<!-- 
+<!--
+
 ### Skills and Tools 🧰
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -50,7 +50,6 @@ A Web Developer who is always looking to try out new technologies, willing to wo
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-
 
 <br/>
 <br/>
