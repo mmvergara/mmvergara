@@ -1,12 +1,10 @@
-<p align="center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mark+Matthew+Vergara+;Web+%26+Mobile+Development;Currently+a+2nd+Year+Student" alt="Typing SVG" />
   </a>
   <br/>
-  <a href="https://github.com/drkostas">
+  <a href="https://github.com/mmvergara">
       <img src="https://github-stats-alpha.vercel.app/api?username=mmvergara&cc=161b22&tc=51c3bc&ic=fff&bc=0000">
   </a>
-</p>
 
 **`Web Developer`**
 
@@ -15,10 +13,6 @@ A Web Developer who is always looking to try out new technologies, willing to wo
 - 🌍 I'm based in Luzon, Philippines 🇵🇭
 - 💻 See My [Personal Website](https://markvergara.vercel.app/)
 - ✉️ You can contact me at mark.jesusmanabat@gmail.com
-- 🔭 I’m currently working on random web apps project
-- 💬 Ask me about Javascript, Typescript and React
-- ⚡ Fun fact, I hate vanilla js, put some typescript magic in there.
-- 🏃‍♂️ See my [Developer Journey](https://github.com/mmvergara/mmvergara/tree/main/journey)
 <!--
 
 ### Skills and Tools 🧰
