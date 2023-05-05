@@ -1,3 +1,14 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mark+Matthew+Vergara+;Web+%26+Mobile+Development;Currently+a+2nd+Year+Student" alt="Typing SVG" />
+  </a>
+  <br/>
+  <a href="https://github.com/drkostas">A
+      <img src="https://github-stats-alpha.vercel.app/api?username=mmvergara&cc=000&tc=fff&ic=fff&bc=000">
+  </a>
+</p>
+
+
 **`Web Developer`**
 
 A Web Developer who is always looking to try out new technologies, willing to work, just to gain some experience that i can use for the next oppurtunity given.
