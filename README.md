@@ -6,7 +6,7 @@
 - 🌍 I'm based in Luzon, Philippines 🇵🇭
 - 💻 See My [Personal Website](https://markvergara.vercel.app/)
 - ✉️ You can contact me at mark.jesusmanabat@gmail.com
-
+<!-- 
 ### Skills and Tools 🧰
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -65,7 +65,7 @@
 <img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" />
           
 <br/>
-<br/>
+<br/> -->
 
 ---
 
