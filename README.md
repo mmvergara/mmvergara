@@ -2,9 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mark+Matthew+Vergara+;Web+%26+Mobile+Development;Currently+a+2nd+Year+Student" alt="Typing SVG" />
   </a>
   <br/>
-  <a href="https://github.com/mmvergara">
-      <img src="https://github-stats-alpha.vercel.app/api?username=mmvergara&cc=161b22&tc=51c3bc&ic=fff&bc=0000" width='100%'>
-  </a>
+
+
 
 - 🌍 I'm based in Luzon, Philippines 🇵🇭
 - 💻 See My [Personal Website](https://markvergara.vercel.app/)
@@ -75,4 +74,6 @@
 
 | Statistic                                                                                                                                       |                                                                                                                                                            Languages |
 | :---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![](https://github-readme-stats.vercel.app/api?username=mmvergara&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmvergara&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
+|    <a href="https://github.com/mmvergara">
+      <img src="https://github-stats-alpha.vercel.app/api?username=mmvergara&cc=161b22&tc=51c3bc&ic=fff&bc=0000">
+  </a> | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmvergara&theme=nightowl) |
