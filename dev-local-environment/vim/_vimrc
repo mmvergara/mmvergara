@@ -52,5 +52,5 @@ if has("gui_running")
   imap <C-v> <C-r>+
   vmap <C-c> "+y<CR>
   vmap <C-v> "+p<CR>
-  cd C:\Users\mmvergara\Desktop\code\mmv-dsa
+  au GUIEnter * simalt ~x
 endif
