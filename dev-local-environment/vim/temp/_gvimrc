@@ -1,7 +1,0 @@
-if has("gui_running")
-    set guifont=Consolas:h14:cANSI
-    set nobackup
-    set noundofile
-    colorscheme slate
-    imap jj <Esc>
-endif

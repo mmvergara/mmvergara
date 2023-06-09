@@ -8,7 +8,6 @@ if &diffopt !~# 'internal'
 endif
 function MyDiff()
   let opt = '-a --binary '
-  set guifont=Consolas:h11:cANSI
   if &diffopt =~ 'icase' | let opt = opt . '-i ' | endif
   if &diffopt =~ 'iwhite' | let opt = opt . '-b ' | endif
   let arg1 = v:fname_in
@@ -40,3 +39,18 @@ function MyDiff()
   endif
 endfunction
 
+-- =================
+
+if has("gui_running")
+  set mouse=a
+  set number
+  set nobackup
+  set autochdir
+  set noundofile
+  set guifont=FixedSys:h11
+  imap jj <Esc>
+  imap <C-v> <C-r>+
+  vmap <C-c> "+y<CR>
+  vmap <C-v> "+p<CR>
+  cd C:\Users\mmvergara\Desktop\code\mmv-dsa
+endif
