@@ -1,8 +1,27 @@
-" Vim with all enhancements
 source $VIMRUNTIME/vimrc_example.vim
 
-" Use the internal diff if available.
-" Otherwise use the special 'diffexpr' for Windows.
+au GUIEnter * simalt ~x
+
+
+set gfn=Fixedsys:h17
+set mouse=a
+set number
+set nobackup
+set autochdir
+set noundofile
+set is
+set cb=unnamed
+set ts=4
+set sw=4
+set si
+
+
+autocmd FileType python map <buffer> <M-1> :w<CR>:exec '!py' shellescape(@%, 1)<CR>
+autocmd FileType python imap <buffer> <M-1> <esc>:w<CR>:exec '!py' shellescape(@%, 1)<CR>
+
+cd C:\Users\mmvergara\Desktop\code\mmv-dsa\
+
+
 if &diffopt !~# 'internal'
   set diffexpr=MyDiff()
 endif
@@ -39,22 +58,25 @@ function MyDiff()
   endif
 endfunction
 
--- =================
+command! -nargs=0 Run autocmd VimEnter * terminal python index.py
+
+
 
 if has("gui_running")
-  set mouse=a
-  set number
-  set nobackup
-  set autochdir
-  set noundofile
-  set guifont=FixedSys:h17
+  
+
   imap jj <Esc>
   imap JJ <Esc>
   imap <C-v> <C-r>+
+  imap <C-z> <C-o>u
+  nnoremap <C-Z> u
+  vmap <C-z> u
   vmap <C-c> "+y<CR>
   vmap <C-v> "+p<CR>
-  au GUIEnter * simalt ~x
+
+  
   autocmd BufEnter * silent! lcd %:p:h
-  imap <C-z> <C-o>u
-  vmap <C-z> u
+
 endif
+
+
