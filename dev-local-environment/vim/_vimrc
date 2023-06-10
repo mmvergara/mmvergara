@@ -47,10 +47,14 @@ if has("gui_running")
   set nobackup
   set autochdir
   set noundofile
-  set guifont=FixedSys:h11
+  set guifont=FixedSys:h17
   imap jj <Esc>
+  imap JJ <Esc>
   imap <C-v> <C-r>+
   vmap <C-c> "+y<CR>
   vmap <C-v> "+p<CR>
   au GUIEnter * simalt ~x
+  autocmd BufEnter * silent! lcd %:p:h
+  imap <C-z> <C-o>u
+  vmap <C-z> u
 endif
