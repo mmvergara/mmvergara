@@ -19,6 +19,7 @@ set si
 autocmd FileType python map <buffer> <M-1> :w<CR>:exec '!py' shellescape(@%, 1)<CR>
 autocmd FileType python imap <buffer> <M-1> <esc>:w<CR>:exec '!py' shellescape(@%, 1)<CR>
 
+
 cd C:\Users\mmvergara\Desktop\code\mmv-dsa\
 
 
@@ -78,5 +79,4 @@ if has("gui_running")
   autocmd BufEnter * silent! lcd %:p:h
 
 endif
-
 
