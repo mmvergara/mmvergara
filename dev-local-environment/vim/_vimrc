@@ -19,6 +19,9 @@ set si
 autocmd FileType python map <buffer> <M-1> :w<CR>:exec '!py' shellescape(@%, 1)<CR>
 autocmd FileType python imap <buffer> <M-1> <esc>:w<CR>:exec '!py' shellescape(@%, 1)<CR>
 
+autocmd filetype cpp nnoremap <buffer> <M-1> :w <bar> !g++ -std=c++14 % -o %:r -Wl,--stack,268435456<CR>
+autocmd filetype cpp nnoremap <buffer> <M-2> :!%:r<CR>
+autocmd filetype cpp nnoremap <C-C> :s/^\(\s*\)/\1\/\/<CR> :s/^\(\s*\)\/\/\/\//\1<CR> $
 
 cd C:\Users\mmvergara\Desktop\code\mmv-dsa\
 
@@ -79,4 +82,3 @@ if has("gui_running")
   autocmd BufEnter * silent! lcd %:p:h
 
 endif
-
