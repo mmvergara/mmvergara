@@ -3,7 +3,7 @@
   </a>
   <br
     
-![Codewars](https://github.r2v.ch/codewars?user=xCrownie&stroke=%23BB432C)
+<!-- ![Codewars](https://github.r2v.ch/codewars?user=xCrownie&stroke=%23BB432C) -->
 
 - 🌍 I'm based in Luzon, Philippines 🇵🇭
 - 💻 See My [Personal Website](https://markvergara.vercel.app/)
