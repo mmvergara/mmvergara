@@ -24,6 +24,17 @@ update_repo() {
         commit_message="$1"
     fi
 
+
+    
+    target_directory="C:\Users\mmvergara\Desktop\code\mmv-dsa"
+    if [ -d "$target_directory" ]; then
+        # Navigate to the target directory
+        cd "$target_directory" || exit 1
+
+        # Delete all .exe files in the directory
+        find . -type f -name "*.exe" -delete
+    fi
+
     git add .
     git commit -m "$commit_message"
     git push
