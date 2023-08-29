@@ -15,7 +15,7 @@ if [ -n "$(command -v curl)" ] && [ -n "$(command -v jq)" ]; then
     fetch_quote
 fi
 
-
+alias ea="exit"
 alias updaterepo="update_repo"
 update_repo() {
     local commit_message="update"
@@ -24,7 +24,11 @@ update_repo() {
         commit_message="$1"
     fi
 
+    git add .
+    git commit -m "$commit_message"
+    git push
 
+    current_directory=$(pwd)
     
     target_directory="C:\Users\mmvergara\Desktop\code\mmv-dsa"
     if [ -d "$target_directory" ]; then
@@ -33,11 +37,10 @@ update_repo() {
 
         # Delete all .exe files in the directory
         find . -type f -name "*.exe" -delete
-    fi
 
-    git add .
-    git commit -m "$commit_message"
-    git push
+        # Navigate back to the current directory
+        cd "$current_directory" || exit 1
+    fi
 }
 
 
