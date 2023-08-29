@@ -1,0 +1,4 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": ["python"],
+  "coc.preferences.formatOnSave": true
+}

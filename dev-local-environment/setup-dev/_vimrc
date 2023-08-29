@@ -1,0 +1,141 @@
+" #### ====== VUNDLE SETUP ====== ####
+" #### ====== VUNDLE SETUP ====== ####
+set nocompatible              " be iMproved, required
+filetype off                  " required
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+
+
+" let Vundle manage Vundle, required
+Plugin 'VundleVim/Vundle.vim'
+Plugin 'neoclide/coc.nvim'  
+Plugin 'dense-analysis/ale'
+
+
+call vundle#end()            " required
+filetype plugin indent on    " required
+" #### ====== VUNDLE SETUP ====== ####
+" #### ====== VUNDLE SETUP ====== ####
+
+
+
+
+
+
+" #### ====== COC SETUP ====== ####
+" #### ====== COC SETUP ====== ####
+let g:coc_global_extensions = ['coc-tsserver', 'coc-json', 'coc-html', 'coc-css', 'coc-yaml', 'coc-python', 'coc-markdownlint']
+" Use tab for trigger completion and enter for confirm completion
+" Use command ':verbose imap <tab>' to make sure tab is not mapped by other plugin
+inoremap <silent><expr> <TAB>
+      \ pumvisible() ? "\<C-n>" :
+      \ <SID>check_back_space() ? "\<TAB>" :
+      \ coc#refresh()
+  
+" #### ====== COC SETUP ====== ####
+" #### ====== COC SETUP ====== ####
+
+
+" #### ====== ALE LINTER SETUP ====== ####
+" #### ====== ALE LINTER SETUP ====== ####
+let g:ale_linters = {'python':['flake8']}
+let g:ale_fixers = {
+  \   '*': ['remove_trailing_lines', 'trim_whitespace'],
+  \   'python': ['remove_trailing_lines', 'trim_whitespace'],
+  \}
+" Enable asynchronous linting
+let g:ale_lint_on_text_changed = 'always'
+let g:ale_lint_on_insert_leave = 0
+
+" Define how often to run linting (in milliseconds)
+let g:ale_lint_delay = 800
+
+" Disable gutter signs for errors and warnings
+let g:ale_sign_error = '-'
+let g:ale_sign_warning = '-'
+
+" Gutter
+let g:ale_sign_column_always = 1
+
+" lines
+let g:ale_warn_about_trailing_blank_lines = 0
+" #### ====== ALE LINTER SETUP ====== ####
+" #### ====== ALE LINTER SETUP ====== ####
+
+
+
+" #### ====== Vim Setup ====== ####
+source $VIMRUNTIME/vimrc_example.vim
+au GUIEnter * simalt ~x
+set gfn=Fixedsys:h17
+set mouse=a
+set number
+set nobackup
+set autochdir
+set noundofile
+set is
+set cb=unnamed
+set ts=4
+set sw=4
+set si
+imap jj <Esc>
+imap JJ <Esc>
+imap <C-v> <C-r>+
+imap <C-z> <C-o>u
+nnoremap <C-Z> u
+vmap <C-z> u
+vmap <C-c> "+y<CR>
+vmap <C-v> "+p<CR>
+" #### ====== Vim Setup ====== ####
+
+
+
+autocmd BufEnter * silent! lcd %:p:h
+autocmd FileType python map <buffer> <M-1> :w<CR>:exec '!py' shellescape(@%, 1)<CR>
+autocmd FileType python imap <buffer> <M-1> <esc>:w<CR>:exec '!py' shellescape(@%, 1)<CR>
+autocmd filetype cpp nnoremap <buffer> <M-1> :w <bar> !g++ -std=c++14 % -o %:r -Wl,--stack,268435456<CR>
+autocmd filetype cpp nnoremap <buffer> <M-2> :!%:r<CR>
+autocmd filetype cpp nnoremap <C-C> :s/^\(\s*\)/\1\/\/<CR> :s/^\(\s*\)\/\/\/\//\1<CR> $
+
+cd C:\Users\mmvergara\Desktop\code\mmv-dsa\
+
+if &diffopt !~# 'internal'
+  set diffexpr=MyDiff()
+endif
+function MyDiff()
+  let opt = '-a --binary '
+  if &diffopt =~ 'icase' | let opt = opt . '-i ' | endif
+  if &diffopt =~ 'iwhite' | let opt = opt . '-b ' | endif
+  let arg1 = v:fname_in
+  if arg1 =~ ' ' | let arg1 = '"' . arg1 . '"' | endif
+  let arg1 = substitute(arg1, '!', '\!', 'g')
+  let arg2 = v:fname_new
+  if arg2 =~ ' ' | let arg2 = '"' . arg2 . '"' | endif
+  let arg2 = substitute(arg2, '!', '\!', 'g')
+  let arg3 = v:fname_out
+  if arg3 =~ ' ' | let arg3 = '"' . arg3 . '"' | endif
+  let arg3 = substitute(arg3, '!', '\!', 'g')
+  if $VIMRUNTIME =~ ' '
+    if &sh =~ '\<cmd'
+      if empty(&shellxquote)
+        let l:shxq_sav = ''
+        set shellxquote&
+      endif
+      let cmd = '"' . $VIMRUNTIME . '\diff"'
+    else
+      let cmd = substitute($VIMRUNTIME, ' ', '" ', '') . '\diff"'
+    endif
+  else
+    let cmd = $VIMRUNTIME . '\diff'
+  endif
+  let cmd = substitute(cmd, '!', '\!', 'g')
+  silent execute '!' . cmd . ' ' . opt . arg1 . ' ' . arg2 . ' > ' . arg3
+  if exists('l:shxq_sav')
+    let &shellxquote=l:shxq_sav
+  endif
+endfunction
+
+command! -nargs=0 Run autocmd VimEnter * terminal python index.py
+
+
+
