@@ -18,13 +18,6 @@ filetype plugin indent on    " required
 
 " #### ====== COC SETUP ====== ####
 let g:coc_global_extensions = ['coc-tsserver', 'coc-json', 'coc-html', 'coc-css', 'coc-yaml', 'coc-python', 'coc-markdownlint']
-" Use tab for trigger completion and enter for confirm completion
-" Use command ':verbose imap <tab>' to make sure tab is not mapped by other plugin
-inoremap <silent><expr> <TAB>
-      \ pumvisible() ? "\<C-n>" :
-      \ <SID>check_back_space() ? "\<TAB>" :
-      \ coc#refresh()
-  
 
 " #### ====== ALE LINTER SETUP ====== ####
 let g:ale_linters = {'python':['flake8']}
@@ -78,7 +71,6 @@ nnoremap <C-Z> u
 vmap <C-z> u
 vmap <C-c> "+y<CR>
 vmap <C-v> "+p<CR>
-" #### ====== Vim Setup ====== ####
 
 
 
@@ -89,7 +81,27 @@ autocmd filetype cpp nnoremap <buffer> <M-1> :w <bar> !g++ -std=c++14 % -o %:r -
 autocmd filetype cpp nnoremap <buffer> <M-2> :!%:r<CR>
 autocmd filetype cpp nnoremap <C-C> :s/^\(\s*\)/\1\/\/<CR> :s/^\(\s*\)\/\/\/\//\1<CR> $
 
+" #### ====== Directory ====== ####
 cd C:\Users\mmvergara\Desktop\code\mmv-dsa\
+
+
+" #### ====== Snippets ====== ####
+
+nnoremap <C-t> :call InsertCppHeader()<CR>
+
+function! InsertCppHeader()
+    normal! i#include <iostream>
+    normal! ousing namespace std;
+    normal! o
+    normal! oint main() {
+    normal! o
+    normal! o
+    normal! o
+    normal! oreturn 0;
+    normal! o}
+    normal! k
+    normal! 3k
+endfunction
 
 if &diffopt !~# 'internal'
   set diffexpr=MyDiff()
