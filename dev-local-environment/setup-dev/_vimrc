@@ -127,7 +127,3 @@ function MyDiff()
   endif
 endfunction
 
-command! -nargs=0 Run autocmd VimEnter * terminal python index.py
-
-
-
