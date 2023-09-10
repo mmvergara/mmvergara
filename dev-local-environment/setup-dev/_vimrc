@@ -63,6 +63,7 @@ set cb=unnamed
 set ts=4
 set sw=4
 set si
+set number relativenumber
 imap jj <Esc>
 imap JJ <Esc>
 imap <C-v> <C-r>+
