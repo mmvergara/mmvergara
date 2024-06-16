@@ -17,9 +17,8 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,dart,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,dart,python,react,astro,electron,discordjs,flutter,tailwind)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,astro,electron,discordjs,flutter,tailwind,)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,nodejs)](https://skillicons.dev)
 
