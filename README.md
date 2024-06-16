@@ -1,13 +1,19 @@
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mark+Matthew+Vergara+;Web+%26+Mobile+Development;Currently+a+2nd+Year+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mark+Matthew+Vergara+;Web+%26+Mobile+Development;Currently+a+3rd+Year+Student" alt="Typing SVG" />
   </a>
   <br
-    
-<!-- ![Codewars](https://github.r2v.ch/codewars?user=xCrownie&stroke=%23BB432C) -->
+<!--     
+![Codewars](https://github.r2v.ch/codewars?user=xCrownie&stroke=%23BB432C) -->
 
 - 🌍 I'm based in Luzon, Philippines 🇵🇭
 - 💻 See My [Personal Website](https://markvergara.vercel.app/)
 - ✉️ You can contact me at mark.jesusmanabat@gmail.com
+
+### I maintain these templates 📚
+
+[React Firebase Auth]()
+[Nextjs MongoDB Prisma Auth](https://github.com/mmvergara/nextjs-mongodb-prisma-auth-template) ![GitHub Repo stars](https://img.shields.io/github/stars/mmvergara/nextjs-mongodb-prisma-auth-template)
+[Nextjs Discord Bot Template]()
 
 ### Skills and Tools 🧰
 
@@ -19,12 +25,6 @@
 <img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="./img/nextjs-circle.png" />
 <img align="left" alt="ElectronJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="left" alt="MaterialUI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />     
-<img align="left" alt="ChakraUI" width="30px" style="padding-right:10px;" src="./svg/chakraui.svg" />     
-<img align="left" alt="Tailwind Css" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" alt="Framer Motion" width="30px" style="padding-right:10px;" src="./svg/framer-motion.svg" />
-<img align="left" alt="Docusaurus" width="30px" style="padding-right:10px;" src="./svg/docusaurus.svg" />
 <img align="left" alt="Discord JS" width="30px" style="padding-right:10px;" src="./svg/djs.svg" />
 
 <br/>
