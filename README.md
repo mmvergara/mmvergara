@@ -15,47 +15,19 @@
 - [🚀 Nextjs MongoDB Prisma Auth Template](https://github.com/mmvergara/nextjs-mongodb-prisma-auth-template)
 - [🚀 Nextjs Discord Bot Template](https://github.com/mmvergara/nextjs-discord-bot-boilerplate)
 
-### Skills and Tools 🧰
+### Skills
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Astro" width="30px" style="padding-right:10px;" src="./svg/astro-dev.svg" />
-<img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="./img/nextjs-circle.png" />
-<img align="left" alt="ElectronJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Discord JS" width="30px" style="padding-right:10px;" src="./svg/djs.svg" />
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,dart,python)](https://skillicons.dev)
 
-<br/>
-<br/>
+[![My Skills](https://skillicons.dev/icons?i=react,astro,electron,discordjs,flutter,tailwind,)](https://skillicons.dev)
 
----
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,nodejs)](https://skillicons.dev)
 
-### Backend Development
+### Learning
 
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Supabase" width="30px" style="padding-right:10px;" src="./svg/supabase.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+[![My Skills](https://skillicons.dev/icons?i=redis,jest,vue,svelte,graphql)](https://skillicons.dev)
 
-<br/>
-<br/>
 
----
-
-### Developer Tools
-
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="./img/github-w.png" />
-<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="./svg/postman.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="VscodeVim-Extension" width="30px" style="padding-right:10px;" src="./img/vscodevim.png" />
-
-<br/>
-<br/>
 
 ---
 
