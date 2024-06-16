@@ -11,9 +11,9 @@
 
 ### I maintain these templates 📚
 
-- [🚀 React Firebase Auth]()
-- [🚀 Nextjs MongoDB Prisma Auth](hthttps://github.com/mmvergara/nextjs-mongodb-prisma-auth-template) ![GitHub Repo stars](https://img.shields.io/github/stars/mmvergara/nextjs-mongodb-prisma-auth-template?style=flat)
-- [🚀 Nextjs Discord Bot Template]()
+- [🚀 React Firebase Auth Template](https://github.com/mmvergara/react-firebase-auth-templatehttps://github.com/mmvergara/react-firebase-auth-template)
+- [🚀 Nextjs MongoDB Prisma Auth Template](hthttps://github.com/mmvergara/nextjs-mongodb-prisma-auth-template) !
+- [🚀 Nextjs Discord Bot Template](https://github.com/mmvergara/nextjs-discord-bot-boilerplate)
 
 ### Skills and Tools 🧰
 
