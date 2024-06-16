@@ -12,7 +12,7 @@
 ### I maintain these templates 📚
 
 - [🚀 React Firebase Auth]()
-- [🚀 Nextjs MongoDB Prisma Auth](hthttps://github.com/mmvergara/nextjs-mongodb-prisma-auth-template)![GitHub Repo stars](https://img.shields.io/github/stars/mmvergara/nextjs-mongodb-prisma-auth-template)
+- [🚀 Nextjs MongoDB Prisma Auth](hthttps://github.com/mmvergara/nextjs-mongodb-prisma-auth-template) ![GitHub Repo stars](https://img.shields.io/github/stars/mmvergara/nextjs-mongodb-prisma-auth-template?style=flat)
 - [🚀 Nextjs Discord Bot Template]()
 
 ### Skills and Tools 🧰
