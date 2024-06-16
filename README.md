@@ -17,7 +17,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,dart,python,react,nextjs,astro,electron,discordjs,flutter,tailwind,redux&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,dart,python,react,nextjs,astro,electron,discordjs,flutter,tailwind&perline=50)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase,firebase,nodejs,git,github,vscode,vim&perline=50)](https://skillicons.dev)
 
