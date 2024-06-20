@@ -17,13 +17,13 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,dart,python,react,nextjs,astro,electron,discordjs,flutter,tailwind&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,dart,python,react,nextjs,electron,discordjs,flutter,tailwind,astro&perline=50)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase,firebase,nodejs,git,github,vscode,vim&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase,firebase,nodejs,github,vscode,vim&perline=50)](https://skillicons.dev)
 
 ### Trying to learn
 
-[![My Skills](https://skillicons.dev/icons?i=redis,jest,vue,cassandra,svelte,graphql,docker,aws,rust,tauri,c,cpp,htmx,kubernetes,neovim,nestjs&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redis,vue,cassandra,neovim,nestjs,graphql,htmx,aws,tauri,rust,docker,c,cpp,svelte,kubernetes,jest&perline=50)](https://skillicons.dev)
 
 ---
 
