@@ -15,7 +15,7 @@
 - [🚀 Nextjs MongoDB Prisma Auth Template](https://github.com/mmvergara/nextjs-mongodb-prisma-auth-template)
 - [🚀 Nextjs Discord Bot Template](https://github.com/mmvergara/nextjs-discord-bot-boilerplate)
 
-### Skills
+### Knows
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,go,dart,python,react,nextjs,electron,discordjs,flutter,tailwind,astro&perline=50)](https://skillicons.dev)
 
