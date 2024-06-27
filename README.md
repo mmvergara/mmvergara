@@ -9,8 +9,9 @@
 - 💻 See My [Personal Website](https://markvergara.vercel.app/)
 - ✉️ You can contact me at mark.jesusmanabat@gmail.com
 
-### I maintain these templates 📚
+### I maintain these repositories📚
 
+- [ 🚀 Supabase Schema Dart Class Generateor](https://github.com/mmvergara/supabase-schema-dart-class-generator)
 - [🚀 React Firebase Auth Template](https://github.com/mmvergara/react-firebase-auth-template)
 - [🚀 Nextjs MongoDB Prisma Auth Template](https://github.com/mmvergara/nextjs-mongodb-prisma-auth-template)
 - [🚀 Nextjs Discord Bot Template](https://github.com/mmvergara/nextjs-discord-bot-boilerplate)
@@ -24,6 +25,7 @@
 ### Currently Learning
 
 [![My Skills](https://skillicons.dev/icons?i=redis,neovim,graphql,docker,svelte,linux,ubuntu&perline=25)](https://skillicons.dev)
+
 ### Want to learn
 
 [![My Skills](https://skillicons.dev/icons?i=vue,cassandra,nestjs,htmx,aws,tauri,rust,docker,c,cpp,kubernetes,jest,wasm,elixir,laravel,bun&perline=25)](https://skillicons.dev)
