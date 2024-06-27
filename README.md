@@ -21,9 +21,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase,firebase,nodejs,github,vscode,vim,prisma&perline=50)](https://skillicons.dev)
 
-### Trying to learn
+### Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=redis,vue,cassandra,neovim,nestjs,graphql,htmx,aws,tauri,rust,docker,c,cpp,svelte,kubernetes,jest,linux,ubuntu,wasm,elixir,laravel,bun&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redis,neovim,graphql,docker,svelte,linux,ubuntu&perline=25)](https://skillicons.dev)
+### Want to learn
+
+[![My Skills](https://skillicons.dev/icons?i=vue,cassandra,nestjs,htmx,aws,tauri,rust,docker,c,cpp,kubernetes,jest,wasm,elixir,laravel,bun&perline=25)](https://skillicons.dev)
 
 ---
 
