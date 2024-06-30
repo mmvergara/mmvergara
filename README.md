@@ -26,7 +26,7 @@
 
 ### Want to learn
 
-[![My Skills](https://skillicons.dev/icons?i=vue,cassandra,nestjs,htmx,aws,tauri,rust,docker,c,cpp,kubernetes,jest,wasm,elixir,laravel,bun&perline=25)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,cassandra,nestjs,htmx,aws,tauri,rust,docker,c,cpp,kubernetes,jest,wasm,elixir,laravel,bun,aws,cypress,django,express&perline=10)](https://skillicons.dev)
 
 ---
 
