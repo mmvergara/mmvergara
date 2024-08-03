@@ -9,7 +9,7 @@
 
 ### I maintain these repositories📚
 
-- [ 🚀 Supabase Schema Dart Class Generateor](https://github.com/mmvergara/supabase-schema-dart-class-generator)
+- [ 🚀 Supadart](https://github.com/mmvergara/supadart)
 - [🚀 React Firebase Auth Template](https://github.com/mmvergara/react-firebase-auth-template)
 - [🚀 Nextjs MongoDB Prisma Auth Template](https://github.com/mmvergara/nextjs-mongodb-prisma-auth-template)
 - [🚀 Nextjs Discord Bot Template](https://github.com/mmvergara/nextjs-discord-bot-boilerplate)
