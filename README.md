@@ -17,9 +17,14 @@ atsu naka nanaman keni HAHAHAHA
 - [🚀 Nextjs Discord Bot Template](https://github.com/mmvergara/nextjs-discord-bot-boilerplate)
 
 
-### I have experience developing in
+### I have experience developing in 🔭
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vuejs,solidjs,astro,remix,tauri,typescript,nodejs,bun,expressjs,java,spring,python,golang,prisma,mysql,postgresql,mongodb,redis,supabase,firebase,graphql,flutter,dart,electron,discordjs,discordbots,git,github,linux,docker,bash,postman,figma,cypress,vim,raspberrypi,pytorch&perline=10)](https://skillicons.dev)
 
-I aslo know hono,drizzle and loads of javascript bloatware libraries.
+I aslo know hono, drizzle and loads of javascript bloatware libraries.
 
+
+
+---
+| ![](https://github-stats-alpha.vercel.app/api?username=mmvergara&cc=0d1117&tc=7d8590&ic=2f81f7&bc=30363d) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmvergara&theme=github_dark) |
+| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
