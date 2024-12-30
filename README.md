@@ -16,3 +16,10 @@ atsu naka nanaman keni HAHAHAHA
 - [🚀 Nextjs MongoDB Prisma Auth Template](https://github.com/mmvergara/nextjs-mongodb-prisma-auth-template)
 - [🚀 Nextjs Discord Bot Template](https://github.com/mmvergara/nextjs-discord-bot-boilerplate)
 
+
+### I have experience developing in
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vuejs,solidjs,astro,remix,tauri,typescript,nodejs,bun,expressjs,java,spring,python,golang,prisma,mysql,postgresql,mongodb,redis,supabase,firebase,graphql,flutter,dart,electron,discordjs,discordbots,git,github,linux,docker,bash,postman,figma,cypress,vim,raspberrypi,pytorch&perline=10)](https://skillicons.dev)
+
+I aslo know hono,drizzle and loads of javascript bloatware libraries.
+
