@@ -1,5 +1,3 @@
-atsu naka nanaman keni HAHAHAHA  
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+**Code**&pause=1000&width=435&lines=Mark+Matthew+Vergara+;Web+%26+Mobile+Development;Currently+a+4th+Year+Student" alt="Typing SVG" />
   </a>
