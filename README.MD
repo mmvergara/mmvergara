@@ -7,14 +7,6 @@
 - 💻 See My [Personal Website](https://markvergara.vercel.app/)
 - ✉️ You can contact me at mark.jesusmanabat@gmail.com
 
-### I maintain these repositories📚
-
-- [🚀 Supadart](https://github.com/mmvergara/supadart)
-- [🚀 React Supabase Auth Template](https://github.com/mmvergara/react-supabase-auth-template)
-- [🚀 React Firebase Auth Template](https://github.com/mmvergara/react-firebase-auth-template)
-- [🚀 Nextjs MongoDB Prisma Auth Template](https://github.com/mmvergara/nextjs-mongodb-prisma-auth-template)
-- [🚀 Nextjs Discord Bot Template](https://github.com/mmvergara/nextjs-discord-bot-boilerplate)
-
 ### I have experience developing in 🔭
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vuejs,solidjs,astro,remix,tauri,typescript,nodejs,bun,expressjs,java,spring,python,golang,prisma,mysql,postgresql,mongodb,redis,supabase,firebase,graphql,flutter,dart,electron,discordjs,discordbots,git,github,linux,docker,bash,postman,figma,cypress,vim,raspberrypi,pytorch&perline=10)](https://skillicons.dev)
