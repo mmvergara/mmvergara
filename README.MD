@@ -21,14 +21,57 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-| ------- | ----------- | ----- |
-| **[Supadart](https://github.com/mmvergara/supadart)** <br> [![Stars](https://img.shields.io/github/stars/mmvergara/supadart?style=flat-square&color=2f81f7)](https://github.com/mmvergara/supadart/stargazers) | Typesafe Supabase queries in Flutter — generates Dart classes straight from your Supabase schema. [Docs ↗](https://supadart.vercel.app) | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| **[React Supabase Auth Template](https://github.com/mmvergara/react-supabase-auth-template)** <br> [![Stars](https://img.shields.io/github/stars/mmvergara/react-supabase-auth-template?style=flat-square&color=2f81f7)](https://github.com/mmvergara/react-supabase-auth-template/stargazers) | React + Supabase auth starter with protected routes. [Demo ↗](https://react-supabase-auth-template.vercel.app) | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| **[Next.js MongoDB Prisma Auth Template](https://github.com/mmvergara/nextjs-mongodb-prisma-auth-template)** <br> [![Stars](https://img.shields.io/github/stars/mmvergara/nextjs-mongodb-prisma-auth-template?style=flat-square&color=2f81f7)](https://github.com/mmvergara/nextjs-mongodb-prisma-auth-template/stargazers) | Next.js starter wired up with MongoDB, Prisma, and NextAuth. [Demo ↗](https://nextjs-mongodb-prisma-auth-template.vercel.app) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **[Next.js Discord Bot Boilerplate](https://github.com/mmvergara/nextjs-discord-bot-boilerplate)** <br> [![Stars](https://img.shields.io/github/stars/mmvergara/nextjs-discord-bot-boilerplate?style=flat-square&color=2f81f7)](https://github.com/mmvergara/nextjs-discord-bot-boilerplate/stargazers) | Build and manage Discord slash commands from a Next.js app. [Demo ↗](https://mmv-nextjs-discord-bot-boilerplate.vercel.app/) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white) |
-| **[React Firebase Auth Template](https://github.com/mmvergara/react-firebase-auth-template)** <br> [![Stars](https://img.shields.io/github/stars/mmvergara/react-firebase-auth-template?style=flat-square&color=2f81f7)](https://github.com/mmvergara/react-firebase-auth-template/stargazers) | React + Firebase auth starter with protected routes. [Demo ↗](https://react-firebase-auth-templ-mmvergaras-projects.vercel.app/) | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **[Supaseeder](https://github.com/mmvergara/supaseeder)** <br> [![Stars](https://img.shields.io/github/stars/mmvergara/supaseeder?style=flat-square&color=2f81f7)](https://github.com/mmvergara/supaseeder/stargazers) | Reads your Supabase schema and generates realistic seed data with AI. [Demo ↗](https://supaseeder.vercel.app) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mmvergara/supadart">Supadart</a></h3>
+      <a href="https://github.com/mmvergara/supadart/stargazers"><img src="https://img.shields.io/github/stars/mmvergara/supadart?style=flat-square&color=2f81f7&label=%E2%98%85" alt="Stars" /></a>
+      <p>Typesafe Supabase queries in Flutter — generates Dart classes straight from your Supabase schema. <a href="https://supadart.vercel.app">Docs ↗</a></p>
+      <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+      <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mmvergara/supaseeder">Supaseeder</a></h3>
+      <a href="https://github.com/mmvergara/supaseeder/stargazers"><img src="https://img.shields.io/github/stars/mmvergara/supaseeder?style=flat-square&color=2f81f7&label=%E2%98%85" alt="Stars" /></a>
+      <p>Reads your Supabase schema and generates realistic seed data with AI. <a href="https://supaseeder.vercel.app">Demo ↗</a></p>
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mmvergara/react-supabase-auth-template">React Supabase Auth Template</a></h3>
+      <a href="https://github.com/mmvergara/react-supabase-auth-template/stargazers"><img src="https://img.shields.io/github/stars/mmvergara/react-supabase-auth-template?style=flat-square&color=2f81f7&label=%E2%98%85" alt="Stars" /></a>
+      <p>React + Supabase auth starter with protected routes. <a href="https://react-supabase-auth-template.vercel.app">Demo ↗</a></p>
+      <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mmvergara/react-firebase-auth-template">React Firebase Auth Template</a></h3>
+      <a href="https://github.com/mmvergara/react-firebase-auth-template/stargazers"><img src="https://img.shields.io/github/stars/mmvergara/react-firebase-auth-template?style=flat-square&color=2f81f7&label=%E2%98%85" alt="Stars" /></a>
+      <p>React + Firebase auth starter with protected routes. <a href="https://react-firebase-auth-templ-mmvergaras-projects.vercel.app/">Demo ↗</a></p>
+      <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mmvergara/nextjs-mongodb-prisma-auth-template">Next.js MongoDB Prisma Auth Template</a></h3>
+      <a href="https://github.com/mmvergara/nextjs-mongodb-prisma-auth-template/stargazers"><img src="https://img.shields.io/github/stars/mmvergara/nextjs-mongodb-prisma-auth-template?style=flat-square&color=2f81f7&label=%E2%98%85" alt="Stars" /></a>
+      <p>Next.js starter wired up with MongoDB, Prisma, and NextAuth. <a href="https://nextjs-mongodb-prisma-auth-template.vercel.app">Demo ↗</a></p>
+      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mmvergara/nextjs-discord-bot-boilerplate">Next.js Discord Bot Boilerplate</a></h3>
+      <a href="https://github.com/mmvergara/nextjs-discord-bot-boilerplate/stargazers"><img src="https://img.shields.io/github/stars/mmvergara/nextjs-discord-bot-boilerplate?style=flat-square&color=2f81f7&label=%E2%98%85" alt="Stars" /></a>
+      <p>Build and manage Discord slash commands from a Next.js app. <a href="https://mmv-nextjs-discord-bot-boilerplate.vercel.app/">Demo ↗</a></p>
+      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><b>🧩 More starter templates</b></summary>
