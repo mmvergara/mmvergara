@@ -1,11 +1,11 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mark+Matthew+Vergara;Web+%26+Mobile+Developer;Open+Source+Maintainer;I+build+tools+for+Supabase+%26+Flutter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mark+Matthew+Vergara;Web+%26+Mobile+Developer;Open+Source+Maintainer;I+build+developer+tools" alt="Typing SVG" />
 </a>
 
 <p>
-  <a href="https://markvergara.vercel.app/"><img src="https://img.shields.io/badge/Website-markvergara.vercel.app-2f81f7?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
+  <a href="https://markvergara.dev/"><img src="https://img.shields.io/badge/Website-markvergara.dev-2f81f7?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
   <a href="mailto:mark.jesusmanabat@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=mmvergara&style=for-the-badge&color=30363d&label=Profile+Views" alt="Profile views" />
 </p>
@@ -50,10 +50,6 @@
 <img height="170" src="https://github-stats-alpha.vercel.app/api?username=mmvergara&cc=0d1117&tc=7d8590&ic=2f81f7&bc=30363d" alt="GitHub stats" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmvergara&theme=github_dark" alt="Top languages" />
 
-<br>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mmvergara&bg_color=0d1117&color=7d8590&line=2f81f7&point=ffffff&area=true&area_color=2f81f7&hide_border=true" alt="Contribution graph" />
-
 </div>
 
 ---
@@ -63,3 +59,5 @@
 ⭐ If any of my projects helped you, consider giving it a star! It means a lot.
 
 </div>
+
+<img width="100%" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Footer wave" />
