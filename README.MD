@@ -52,8 +52,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ⭐ If any of my projects helped you, consider giving it a star! It means a lot.
